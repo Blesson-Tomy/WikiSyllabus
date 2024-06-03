@@ -2,4 +2,4 @@
 
 ## Index
 
-- [Data Definition Language](./Data-Definition-Language.md)
+- [CST 204](./CST204)
